@@ -1,0 +1,17 @@
+
+
+Reflection - Noah Levine - CS 232
+
+Pygame Project
+
+Really enjoyed this one. Spent a good portion of a day working with the supplied tutorial. I had actually attempted this
+tutorial previously but hadn't gotten Pygame to work in pycharm, but got it fixed the second time at it. This project was
+very stimulating to someone interested in a career of level design in games, just to see some basic mechanics for collisions
+input and movement. I worked through all of the code with the video, which I found to very valuable. I liked being able to
+add sound effects for different things happening, and I see loads of potential for what could be done with that in future
+projects. The additions I made to the game included a level display, which increases every 15 points scored. I made it so
+that an additional point is added as soon as you get to each point requirement, as the level indicator would increase rapidly
+when the players score was at 15,30, etc. I also added some sound effects for when a new level is reached, different bird
+sounds to congratulate you on your progress. There is also now a goose button which I sadly could not demonstrate in the
+Licecap gif. I enjoyed this project and look forward to using pycharm and pygame in the future.
+
